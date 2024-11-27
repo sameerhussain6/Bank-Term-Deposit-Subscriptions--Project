@@ -6,7 +6,6 @@ This project focuses on predicting the likelihood of a client subscribing to a t
 - [Dataset](#dataset)
 - [Key Features](#key-features)
 - [Project Workflow](#project-workflow)
-- [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
 - [Results](#results)
 - [Contributors](#contributors)
@@ -38,24 +37,6 @@ The dataset contains information on various customer attributes and interactions
 2. **Exploratory Data Analysis (EDA)**: Understanding the data through visualizations and statistical summaries.
 3. **Model Building**: Training and tuning machine learning models.
 4. **Model Evaluation**: Comparing model performance using various evaluation metrics.
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Bank_Term_Deposit_Project
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook to reproduce the analysis:
-   ```bash
-   jupyter notebook Bank_Term_Deposit_Project.ipynb
-   ```
 
 ## Dependencies
 - Python 3.7+
