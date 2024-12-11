@@ -8,7 +8,7 @@ This project focuses on predicting the likelihood of a client subscribing to a t
 - [Project Workflow](#project-workflow)
 - [Dependencies](#dependencies)
 - [Results](#results)
-- [Contributors](#contributors)
+- [Contributor](#contributor)
 
 ## Project Overview
 The goal of this project is to use historical customer data to predict whether a customer will subscribe to a bank term deposit. This prediction can help banks optimize marketing campaigns and improve customer targeting.
@@ -50,7 +50,7 @@ The dataset contains information on various customer attributes and interactions
 ## Results
 The project demonstrates the ability to predict term deposit subscriptions with significant accuracy. Key insights and detailed evaluation metrics are provided in the notebook.
 
-## Contributors
+## Contributor
 - Shaik Mohammad Sameer Hussain
 - Open to contributions. Feel free to submit issues or pull requests.
 
